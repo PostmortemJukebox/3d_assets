@@ -12,7 +12,7 @@ The factory-installed Wurlitzer 2700 tweeter has a paper cone and metal parts. A
 
 ## How
 
-The <tweeter_frame_tpt-s3_v1.stl> model is an adapter plate for the Wurlitzer 2700/2710 to allow the use of a Timpano TPT-ST3 tweeter instead of factory equipment.
+The [tweeter_frame_tpt-s3_v1.stl](./tweeter_frame_tpt-s3_v1.stl) model is an adapter plate for the Wurlitzer 2700/2710 to allow the use of a Timpano TPT-ST3 tweeter instead of factory equipment.
 
 
 ## Other required parts

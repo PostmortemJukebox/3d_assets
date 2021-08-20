@@ -12,7 +12,7 @@ The Wurlitzer 2700 free play switch is buried inside the cabinet, under the keyb
 
 ## How
 
-The <flipper_spdt_switch_v1.stl> model has a round plate on one end and a hollow box on the other end. The round plate goes over the post of the pinball flipper switch, and is secured by using the regular PAL nut for the flipper switch. The box end holds the SPDT switch. Holes in the box end align with the holes in the switch body, and screws or a length of wire may be used to secure the switch.
+The [flipper_spdt_switch_v1.stl](./flipper_spdt_switch_v1.stl) model has a round plate on one end and a hollow box on the other end. The round plate goes over the post of the pinball flipper switch, and is secured by using the regular PAL nut for the flipper switch. The box end holds the SPDT switch. Holes in the box end align with the holes in the switch body, and screws or a length of wire may be used to secure the switch.
 
 Unsolder the factory free play switch and use hookup wire to connect the SPDT switch. For convenience and easier ongoing maintenance, consider using latching Molex connectors to make a quick disconnect harness between the keyboard and the flipper switch.
 
