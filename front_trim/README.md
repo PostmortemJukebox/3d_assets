@@ -13,3 +13,4 @@ The Wurlitzer 2700's front trim takes a LOT of damage because if its placement. 
 ## How
 
 The [trim-cross-section.stl](./trim-cross-section.stl) model describes a cross-section of the trim.
+The [trim-top-cap.stl](./trim-top-cap.stl) model describes the top of the trim, where it fits between the cabinet and the keyboard frame casting (P/N 122443, 122449).
